@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "3eWER14i0Ujy3XL7cBHSh8fa1Aysp2V1QDzulmIFI/w6cuMN7Tz5i8fOwtS2ByTBV/XxbKE7gISYTXhosS2WCQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hakan\\Desktop\\Dersler\\Visual Studio Applications\\CoalescedHashing\\CoalescedHashing\\CoalescedHashing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hakan\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.4\\microsoft.netcore.platforms.3.1.4.nupkg.sha512",
+    "C:\\Users\\Hakan\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\Hakan\\.nuget\\packages\\scottplot\\4.1.68\\scottplot.4.1.68.nupkg.sha512",
+    "C:\\Users\\Hakan\\.nuget\\packages\\scottplot.winforms\\4.1.68\\scottplot.winforms.4.1.68.nupkg.sha512",
+    "C:\\Users\\Hakan\\.nuget\\packages\\system.drawing.common\\4.7.2\\system.drawing.common.4.7.2.nupkg.sha512",
+    "C:\\Users\\Hakan\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
